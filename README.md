@@ -7,6 +7,6 @@
 
 ## 실행 안될 경우 설치해야하는 라이브러리
 
-git clone https://github.com/ultralytics/yolov5.git
-cd yolov5
-pip install -r requirements.txt
+git clone https://github.com/ultralytics/yolov5.git  
+cd yolov5  
+pip install -r requirements.txt  
