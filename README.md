@@ -1,5 +1,5 @@
 ## Yolov5를 이용한 화재 감지 모델
-### GDG sprint challenge
+GDG sprint challenge
 
 ## 사용법
 인풋 데이터의 타입에 따라 코드가 다르게 구성되어 있음.
