@@ -1,3 +1,6 @@
+## Yolov5를 이용한 화재 감지 모델
+### GDG sprint challenge
+
 ## 사용법
 인풋 데이터의 타입에 따라 코드가 다르게 구성되어 있음.
 
@@ -14,3 +17,6 @@
 git clone https://github.com/ultralytics/yolov5.git  
 cd yolov5  
 pip install -r requirements.txt  
+
+## 결과
+![test](https://github.com/user-attachments/assets/ce276c8f-23cd-4388-a297-79ed81596dfd)
